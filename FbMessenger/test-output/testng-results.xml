@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-27T17:42:54 IST" name="Suite" finished-at="2022-10-27T17:49:06 IST" duration-ms="371963">
+    <groups>
+    </groups>
+    <test started-at="2022-10-27T17:42:54 IST" name="CromeTest" finished-at="2022-10-27T17:47:18 IST" duration-ms="264065">
+      <class name="testpackage.Test1">
+        <test-method is-config="true" signature="launchbrowser1(java.lang.String)[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:42:54 IST" name="launchbrowser1" finished-at="2022-10-27T17:43:00 IST" duration-ms="6523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser1 -->
+        <test-method is-config="true" signature="createPOMobject1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:43:03 IST" name="createPOMobject1" finished-at="2022-10-27T17:43:03 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOMobject1 -->
+        <test-method is-config="true" signature="gotoRoomsPage1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:43:03 IST" name="gotoRoomsPage1" finished-at="2022-10-27T17:44:27 IST" duration-ms="83914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoRoomsPage1 -->
+        <test-method signature="returntomessenger1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:44:27 IST" name="returntomessenger1" finished-at="2022-10-27T17:44:57 IST" duration-ms="29251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returntomessenger1 -->
+        <test-method is-config="true" signature="status1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:44:57 IST" name="status1" finished-at="2022-10-27T17:44:57 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status1 -->
+        <test-method is-config="true" signature="gotoRoomsPage1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:44:57 IST" name="gotoRoomsPage1" finished-at="2022-10-27T17:45:55 IST" duration-ms="57470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoRoomsPage1 -->
+        <test-method signature="visittohelpcenter1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:45:55 IST" name="visittohelpcenter1" finished-at="2022-10-27T17:46:19 IST" duration-ms="24077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visittohelpcenter1 -->
+        <test-method is-config="true" signature="status1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:46:19 IST" name="status1" finished-at="2022-10-27T17:46:19 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status1 -->
+        <test-method is-config="true" signature="removeobjects1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:46:19 IST" name="removeobjects1" finished-at="2022-10-27T17:46:19 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeobjects1 -->
+        <test-method is-config="true" signature="closebrowser1()[pri:0, instance:testpackage.Test1@12468a38]" started-at="2022-10-27T17:46:19 IST" name="closebrowser1" finished-at="2022-10-27T17:47:03 IST" duration-ms="43990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser1 -->
+      </class> <!-- testpackage.Test1 -->
+      <class name="testpackage.TestNg">
+        <test-method is-config="true" signature="launchbrowser(java.lang.String)[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:43:00 IST" name="launchbrowser" finished-at="2022-10-27T17:43:03 IST" duration-ms="3073" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method is-config="true" signature="createPOMobject()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:43:03 IST" name="createPOMobject" finished-at="2022-10-27T17:43:03 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOMobject -->
+        <test-method is-config="true" signature="gotoRoomsPage()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:43:03 IST" name="gotoRoomsPage" finished-at="2022-10-27T17:44:27 IST" duration-ms="83952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoRoomsPage -->
+        <test-method signature="returntomessenger()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:44:27 IST" name="returntomessenger" finished-at="2022-10-27T17:45:06 IST" duration-ms="38890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returntomessenger -->
+        <test-method is-config="true" signature="status()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:45:06 IST" name="status" finished-at="2022-10-27T17:45:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="gotoRoomsPage()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:45:06 IST" name="gotoRoomsPage" finished-at="2022-10-27T17:45:55 IST" duration-ms="48175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoRoomsPage -->
+        <test-method signature="visittohelpcenter()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:45:55 IST" name="visittohelpcenter" finished-at="2022-10-27T17:46:08 IST" duration-ms="13596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visittohelpcenter -->
+        <test-method is-config="true" signature="status()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:46:08 IST" name="status" finished-at="2022-10-27T17:46:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="removeobjects()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:46:08 IST" name="removeobjects" finished-at="2022-10-27T17:46:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeobjects -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testpackage.TestNg@4fb0f2b9]" started-at="2022-10-27T17:47:03 IST" name="closebrowser" finished-at="2022-10-27T17:47:18 IST" duration-ms="14713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testpackage.TestNg -->
+    </test> <!-- CromeTest -->
+    <test started-at="2022-10-27T17:47:19 IST" name="FirefoxTest" finished-at="2022-10-27T17:49:06 IST" duration-ms="107145">
+      <class name="testpackage.Test1">
+        <test-method is-config="true" signature="launchbrowser1(java.lang.String)[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:47:19 IST" name="launchbrowser1" finished-at="2022-10-27T17:48:07 IST" duration-ms="48862" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser1 -->
+        <test-method is-config="true" signature="createPOMobject1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:48:16 IST" name="createPOMobject1" finished-at="2022-10-27T17:48:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOMobject1 -->
+        <test-method is-config="true" signature="gotoRoomsPage1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:48:16 IST" name="gotoRoomsPage1" finished-at="2022-10-27T17:48:49 IST" duration-ms="33188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoRoomsPage1 -->
+        <test-method signature="returntomessenger1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:48:49 IST" name="returntomessenger1" finished-at="2022-10-27T17:48:52 IST" duration-ms="2210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returntomessenger1 -->
+        <test-method is-config="true" signature="status1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:48:52 IST" name="status1" finished-at="2022-10-27T17:48:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status1 -->
+        <test-method is-config="true" signature="gotoRoomsPage1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:48:52 IST" name="gotoRoomsPage1" finished-at="2022-10-27T17:48:57 IST" duration-ms="5187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoRoomsPage1 -->
+        <test-method signature="visittohelpcenter1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:48:57 IST" name="visittohelpcenter1" finished-at="2022-10-27T17:49:00 IST" duration-ms="3651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visittohelpcenter1 -->
+        <test-method is-config="true" signature="status1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:49:00 IST" name="status1" finished-at="2022-10-27T17:49:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status1 -->
+        <test-method is-config="true" signature="removeobjects1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:49:00 IST" name="removeobjects1" finished-at="2022-10-27T17:49:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeobjects1 -->
+        <test-method is-config="true" signature="closebrowser1()[pri:0, instance:testpackage.Test1@6aeb35e6]" started-at="2022-10-27T17:49:00 IST" name="closebrowser1" finished-at="2022-10-27T17:49:03 IST" duration-ms="2609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser1 -->
+      </class> <!-- testpackage.Test1 -->
+      <class name="testpackage.TestNg">
+        <test-method is-config="true" signature="launchbrowser(java.lang.String)[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:07 IST" name="launchbrowser" finished-at="2022-10-27T17:48:16 IST" duration-ms="8671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method is-config="true" signature="createPOMobject()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:16 IST" name="createPOMobject" finished-at="2022-10-27T17:48:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOMobject -->
+        <test-method is-config="true" signature="gotoRoomsPage()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:16 IST" name="gotoRoomsPage" finished-at="2022-10-27T17:48:44 IST" duration-ms="28154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoRoomsPage -->
+        <test-method signature="returntomessenger()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:44 IST" name="returntomessenger" finished-at="2022-10-27T17:48:46 IST" duration-ms="1868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returntomessenger -->
+        <test-method is-config="true" signature="status()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:46 IST" name="status" finished-at="2022-10-27T17:48:46 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="gotoRoomsPage()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:46 IST" name="gotoRoomsPage" finished-at="2022-10-27T17:48:51 IST" duration-ms="5232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoRoomsPage -->
+        <test-method signature="visittohelpcenter()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:51 IST" name="visittohelpcenter" finished-at="2022-10-27T17:48:55 IST" duration-ms="4002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visittohelpcenter -->
+        <test-method is-config="true" signature="status()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:55 IST" name="status" finished-at="2022-10-27T17:48:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="removeobjects()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:48:55 IST" name="removeobjects" finished-at="2022-10-27T17:48:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeobjects -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testpackage.TestNg@293a5bf6]" started-at="2022-10-27T17:49:03 IST" name="closebrowser" finished-at="2022-10-27T17:49:06 IST" duration-ms="2666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testpackage.TestNg -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
